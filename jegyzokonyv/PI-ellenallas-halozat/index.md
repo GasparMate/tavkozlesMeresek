@@ -24,7 +24,8 @@ A feladat lényeg az hogy megállapítsuk 6 db csillapításon működik ez az �
 6 dB-es csillapításra kiszámolt ellenállás értékek:
 
 
-![1](https://github.com/user-attachments/assets/658078ad-9441-4ba8-89fe-137c89e3d1bb)
+![3](https://github.com/user-attachments/assets/e95208af-e88d-4679-96ce-14386a855e08)
+
 
 <br>
 
