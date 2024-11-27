@@ -1,22 +1,20 @@
 ## &#928; Csillapító Áramkör Jegyzőkönyv.
 
 **Mérés helye**: Miskolci SZC Kandó Kálmán Informatikai Technikum  
-**Mérés időpontja**: 2024.10.07.  
-**Mérő műszerek**: HMO1002 Oscilloscope - 1764K02-102609-WG  
+**Mérés időpontja**: 23024.11.27
+**Mérő műszerek**:National Instruments Ni MYDOQ 305E1ED 
 **Felelős személy**: Sándor Péter  
-**Cél**: A pi csillapító áramkör elemzése.
+**Cél**: A PI csillapító áramkör elemzése.
 
 ---
 
 ### 1. **Bevezetés**
 
-A projekt célja egy PI csillapító áramkör megépítése, amelynek fókuszában a csillapítás mérése áll.
-Az áramkört breadboardon építettem meg, a könnyedség kedvéért.
+A feladat lényeg az hogy megállapítsuk 6 db csillapításon működik ez az áramkörünk és ha működik akkor hogyan és milyen számítások jönnek ki
 
 ## Elmélet:
 
-Az áramkör arról kapja a nevét, hogy az ellenállásokat a görög "&#928;" formájában kötjük össze.
-Az érétkeket a következő képletekkel számoljuk ki:
+
 
 ![R1 képlete](https://raw.githubusercontent.com/szabot2/pi-csillapito/cffee4ced185268076fb4bf54fdfafc23a0b0f74/kepek/svgviewer-output.svg)
 
@@ -26,12 +24,14 @@ Az érétkeket a következő képletekkel számoljuk ki:
 6 dB-es csillapításra kiszámolt ellenállás értékek:
 
 
-<img src="https://raw.githubusercontent.com/szabot2/pi-csillapito/refs/heads/main/kepek/ql_41d4e91c270a0827beb0bb25f1c6a62a_l3.png">
+![1](https://github.com/user-attachments/assets/658078ad-9441-4ba8-89fe-137c89e3d1bb)
+
 <br>
 
 A kapcsolási rajz ábrázolja a jelgenerátort a belső ellenállásával, valamint a Pi csillapítót a kiszámolt ellenállás értékekkel:
-<a href="https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWc0wCZIA4AsBmBDUsM4A2AThxAUiqpoQFMBaMMAKADcQySRdVuvdBijhw8WjSnQEbAE6CQwpZhUiaJOGwDuavcpyQsUHYv57zkU8vMGcvK7oNGlCXoeOPX7l6jdKAdgEvOyF-HHsTJ3DIv3cSdWtwhJAPVJSQ-1Qg1N8cqwU07IE0+3VwYgLc42K+MCF8vmpTUpSsevTEhXaGgR7O0TBK037arBIa-JGOsr4JgaqsHkC+5dmNLV1l5WWwLE9rVWVlPYPdJfiRNxp1ke2c65WTAAdFU713ygPXx9rH2a+UT49z681qXguA3GxluAHslAiaGgEOMlNAlmQyBhUKgcERsDiyEgYPAIDQBCU2PCwAFEeA-KiwNBCJiyKwaftUKwiFBYHAIBABDTUmwgA" target="_blank">
-<img src="https://raw.githubusercontent.com/szabot2/pi-csillapito/refs/heads/main/kepek/circuit-20241008-0905.png" width="640" height="400">
+<a href="CQAgjCAMB0l3BWc0wCZIA4AsBmBDUsM4A2AThxAUiqpoQFMBaMMAKADcQySRdVuvdBijhw8WjSnQEbAE6CQwpZhUiaJOGwDuavcpyQsUHYv57zkU8vMGcvK7oNGlCXoeOPX7l6jdKAdgEvOyF" width="640" height="400">
+![2](https://github.com/user-attachments/assets/7d5fd06a-ad7f-40ba-9c7e-4e31d420003b)
+
 </a>
 
 
@@ -70,7 +70,7 @@ A pi csillapító áramkör sikeresen megvalósult, és a tesztelési eredménye
 
 ### 7. **Javaslatok**
 
-- nincs
+Az ellenálásoka pontosan vagy nagyon hasonlók legyenek a leírtakhoz, nem lesz jó az eredmény ha nem pont
 
 ---
 
