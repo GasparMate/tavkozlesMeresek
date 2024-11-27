@@ -31,7 +31,7 @@ A feladat lényeg az hogy megállapítsuk 6 db csillapításon működik ez az �
 
 A kapcsolási rajz ábrázolja a jelgenerátort a belső ellenállásával, valamint a Pi csillapítót a kiszámolt ellenállás értékekkel:
 
-<img src="https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWc0wCZIA4AsBmBDUsM4A2AThxAUiqpoQFMBaMMAKADcQySQcSM3XqgDsqKOHDxaNWdARsATkJCjx6QWokk4bAO4r+mzHwFR9qk1tQJhY8wZt3xOSFlX3ISvm48vfRhLousqu7lpYYM4S1CIWYaaCkbyBXsrJfiAZqZa6BhkRJOGeFtlmWEWJ5uk8mVi1OTpe+Q1mtjSppbVa7ZleAA5UOpm9gZTuzVnd9hXF4pP1KeWVnY4mYwFmA5aa9hpV4+YA9uAQ8+A2FciEaGQIkQgYdyIkYGRQsHAQNOKsfGxAA">
+<a target="blank" href="https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWc0wCZIA4AsBmBDUsM4A2AThxAUiqpoQFMBaMMAKADcQySQcSM3XqgDsqKOHDxaNWdARsATkJCjx6QWokk4bAO4r+mzHwFR9qk1tQJhY8wZt3xOSFlX3ISvm48vfRhLousqu7lpYYM4S1CIWYaaCkbyBXsrJfiAZqZa6BhkRJOGeFtlmWEWJ5uk8mVi1OTpe+Q1mtjSppbVa7ZleAA5UOpm9gZTuzVnd9hXF4pP1KeWVnY4mYwFmA5aa9hpV4+YA9uAQ8+A2FciEaGQIkQgYdyIkYGRQsHAQNOKsfGxAA" >
 
 
 </a>
