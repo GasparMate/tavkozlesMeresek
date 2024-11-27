@@ -29,7 +29,7 @@ A feladat lényeg az hogy megállapítsuk 6 db csillapításon működik ez az �
 <br>
 
 A kapcsolási rajz ábrázolja a jelgenerátort a belső ellenállásával, valamint a Pi csillapítót a kiszámolt ellenállás értékekkel:
-<a href="CQAgjCAMB0l3BWc0wCZIA4AsBmBDUsM4A2AThxAUiqpoQFMBaMMAKADcQySRdVuvdBijhw8WjSnQEbAE6CQwpZhUiaJOGwDuavcpyQsUHYv57zkU8vMGcvK7oNGlCXoeOPX7l6jdKAdgEvOyF" width="640" height="400">
+<a href="https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWc0wCZIA4AsBmBDUsM4A2AThxAUiqpoQFMBaMMAKADcQySQcSM3XqgDsqKOHDxaNWdARsATkJCjx6QWokk4bAO4r+mzHwFR9qk1tQJhY8wZt3xOSFlX3ISvm48vfRhJgxF7Kru5aWGDOEljUFuGmglG8gaEgKX4Z0UlBIRaZkSQRngU5gVjFuelYPFm1qWY0Ol4GDbm2NGkFdVqdWV4ADlQ6Wf2BlO6tGb32lSXi0+0VVd2OJhMBTWzDGll7ExnmAPbgEIvgNpXINlCwcBA04qx8bEA" width="640" height="400">
 ![2](https://github.com/user-attachments/assets/7d5fd06a-ad7f-40ba-9c7e-4e31d420003b)
 
 </a>
