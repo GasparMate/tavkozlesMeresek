@@ -71,7 +71,15 @@ A áramkör csillapít de nagyobbat mint 50% mert az ellenállsok nagyobbak lett
 ### 6. **Következtetések**
 A pi csillapító áramkör sikeresen megvalósult, és a tesztelési eredmények azt mutatják, hogy a csillapítási teljesítmény megfelel a tervezett specifikációknak. A mérések alapján a csillapító hatás a kívánt frekvenciatartományban optimális, és a jelminőség megőrzése is megfelelő. A projekt során szerzett tapasztalatok alapján a tervezési folyamat során figyelembe kell venni a komponensek toleranciáját és a környezeti hatásokat, mivel ezek befolyásolhatják az áramkör teljesítményét.
 
-### 7. **Javaslatok**
+### 7. **Felhasznált Eszközök és ellenállások**
+
+
+| R1 ellenállás      | 2.2kΩ|
+| R2 ellenállás      | 540kΩ|
+| R3 ellenállás      | 680kΩ|
+| National Instruments Ni MYDOQ 305E1ED| 
+| LINI-T UT61D     | 
+
 
 
 
