@@ -1,7 +1,7 @@
 ## &#928; Csillapító Áramkör Jegyzőkönyv.
 
 **Mérés helye**: Miskolci SZC Kandó Kálmán Informatikai Technikum  
-**Mérés időpontja**: 23024.11.27
+**Mérés időpontja**: 2024.12.04
 **Mérő műszerek**:National Instruments Ni MYDOQ 305E1ED 
 **Felelős személy**: Sándor Péter  
 **Cél**: A PI csillapító áramkör elemzése.
