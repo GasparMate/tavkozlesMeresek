@@ -51,7 +51,7 @@ Az oszcillátoron látható mérés:
 | Kimeneti Jel        | 1.257 Vp2p |
 | Generátor Frekvencia| 100000 Hz |
 | Csillapítás         | 11,99dB |
-| Átviteli Arány      | 0,2514 dB |
+| Átviteli Arány      | -11.98 dB |
 | Bemeneti impedancia | 347 Ω |
 | Kimeneti impedancia | 344 Ω |   
 
