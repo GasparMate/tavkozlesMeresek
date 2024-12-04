@@ -57,18 +57,13 @@ Az oszcillátoron látható mérés:
 
 <br>
 
-Látható az oszcilloszkópon a sárga 1-es csatornán a csillapított kimeneti jel, és a kék 2-es csatornán a generátor jel.
-
-<img src="https://raw.githubusercontent.com/szabot2/pi-csillapito/refs/heads/main/kepek/TA02.PNG" width="600" height="480">
-
-
 ### 4. **Mérési eredmények**
 
 - **Kimeneti Jel**: A kimeneti jel mindössze 41.2%-a a generátor jelének.
   
-- **Csillapítás/Átviteli arány**:  7.702 dB csillapítást tapasztalunk az áramkör jóvoltából.
+- **Csillapítás/Átviteli arány**:  11,99 dB csillapítást tapasztalunk az áramkör jóvoltából.
 
-- **Kimeneti/Bemeneti impedancia**: ??????.  
+- **Kimeneti/Bemeneti impedancia**: A bemeneti impedanciánk 347 Ohm. A kimeneti impedanciánk 344 Ohm.  
 
 ### 5. **Elemzés**
 A áramkör csillapít de nagyobbat mint 50% mert az ellenállsok nagyobbak lettek így nagyobb a csillapítás is.
