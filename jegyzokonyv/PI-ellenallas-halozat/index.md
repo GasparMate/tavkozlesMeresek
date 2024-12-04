@@ -59,7 +59,7 @@ Az oszcillátoron látható mérés:
 
 ### 4. **Mérési eredmények**
 
-- **Kimeneti Jel**: A kimeneti jel mindössze 41.2%-a a generátor jelének.
+- **Kimeneti Jel**: A kimeneti jel mindössze 25.14%-a a generátor jelének.
   
 - **Csillapítás/Átviteli arány**:  11,99 dB csillapítást tapasztalunk az áramkör jóvoltából.
 
@@ -77,6 +77,6 @@ A pi csillapító áramkör sikeresen megvalósult, és a tesztelési eredménye
 ---
 
 **Aláírás**:  
-Felelős mérő személy: ..............................  
-Dátum: .............................................
+Felelős mérő személy: Gáspár Máté
+Dátum: 2024.12.04
 
