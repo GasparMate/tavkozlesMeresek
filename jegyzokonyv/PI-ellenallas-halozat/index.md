@@ -33,7 +33,8 @@ A kapcsolási rajz ábrázolja a jelgenerátort a belső ellenállásával, vala
 
 <a target="blank" href="https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWc0wCZIA4AsBmBDUsM4A2AThxAUiqpoQFMBaMMAKADcQySQcSM3XqgDsqKOHDxaNWdARsATkJCjx6QWokk4bAO4r+mzHwFR9qk1tQJhY8wZt3xOSFlX3ISvm48vfRhLousqu7lpYYM4S1CIWYaaCkbyBXsrJfiAZqZa6BhkRJOGeFtlmWEWJ5uk8mVi1OTpe+Q1mtjSppbVa7ZleAA5UOpm9gZTuzVnd9hXF4pP1KeWVnY4mYwFmA5aa9hpV4+YA9uAQ8+A2FciEaGQIkQgYdyIkYGRQsHAQNOKsfGxAA" >
 
-![2](https://github.com/user-attachments/assets/e1d418b2-5630-434a-8d9c-8a8a2743b7d2)
+![gép](https://github.com/user-attachments/assets/cc92dcc6-607c-4e01-a671-23c2e336c2b5)
+
 
 Az oszcillátoron látható mérés:
 </a>
