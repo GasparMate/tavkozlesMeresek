@@ -74,11 +74,11 @@ A pi csillapító áramkör sikeresen megvalósult, és a tesztelési eredménye
 ### 7. **Felhasznált Eszközök és ellenállások**
 
 <br>
-| R1 ellenállás      | 2.2kΩ|
-| R2 ellenállás      | 540kΩ|
-| R3 ellenállás      | 680kΩ|
-| National Instruments Ni MYDOQ 305E1ED| 
-| LINI-T UT61D     | 
+| R1 ellenállás      | 2.2kΩ| |
+| R2 ellenállás      | 540kΩ| |
+| R3 ellenállás      | 680kΩ| |
+| National Instruments Ni MYDOQ 305E1ED| |
+| LINI-T UT61D     | |
 </br>
 
 
