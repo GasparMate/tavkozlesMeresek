@@ -48,12 +48,12 @@ Az oszcillátoron látható mérés:
 | Paraméter           | Érték |
 |---------------------|-------|
 | Generátor jel       | 5.00 Vp2p|
-| Kimeneti Jel        | 2.06 Vp2p |
-| Generátor Frekvencia| 1000 Hz |
+| Kimeneti Jel        | 1.257 Vp2p |
+| Generátor Frekvencia| 100000 Hz |
 | Csillapítás         | -7.702 dB |
 | Átviteli Arány      | 7.702 dB |
-| Bemeneti impedancia | ? Ω |
-| Kimeneti impedancia | ? Ω |   
+| Bemeneti impedancia | 347 Ω |
+| Kimeneti impedancia | 344 Ω |   
 
 <br>
 
@@ -71,14 +71,13 @@ Látható az oszcilloszkópon a sárga 1-es csatornán a csillapított kimeneti 
 - **Kimeneti/Bemeneti impedancia**: ??????.  
 
 ### 5. **Elemzés**
-A pi csillapító (pi pad) ellenállás áramkörének elemzése során megfigyelhető, hogy a tervezett áramkör hatékonyan csökkenti a jel amplitúdóját, miközben megőrzi a jel formáját. Az áramkör négy fő komponensből áll: három ellenállásból és egy terhelő ellenállásból. Kisebb eltérés tapasztalható a kiszámolt értékek és a valós értékek között.
-
+A áramkör csillapít de nagyobbat mint 50% mert az ellenállsok nagyobbak lettek így nagyobb a csillapítás is.
 ### 6. **Következtetések**
 A pi csillapító áramkör sikeresen megvalósult, és a tesztelési eredmények azt mutatják, hogy a csillapítási teljesítmény megfelel a tervezett specifikációknak. A mérések alapján a csillapító hatás a kívánt frekvenciatartományban optimális, és a jelminőség megőrzése is megfelelő. A projekt során szerzett tapasztalatok alapján a tervezési folyamat során figyelembe kell venni a komponensek toleranciáját és a környezeti hatásokat, mivel ezek befolyásolhatják az áramkör teljesítményét.
 
 ### 7. **Javaslatok**
 
-Az ellenálásoka pontosan vagy nagyon hasonlók legyenek a leírtakhoz, nem lesz jó az eredmény ha nem pont
+
 
 ---
 
