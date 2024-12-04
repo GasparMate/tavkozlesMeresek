@@ -35,6 +35,9 @@ A kapcsolási rajz ábrázolja a jelgenerátort a belső ellenállásával, vala
 
 ![2](https://github.com/user-attachments/assets/e1d418b2-5630-434a-8d9c-8a8a2743b7d2)
 
+Az oszcillátoron látható mérés:
+
+![mérés](https://github.com/user-attachments/assets/bea507d3-fefd-4526-be8d-86c8b273a09e)
 
 </a>
 
