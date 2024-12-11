@@ -95,6 +95,6 @@ Javasolt a mérések ismétlése annak érdekében, hogy a változó környezeti
 
 <br>
 
-**Aláírás:** Szabó Tamás
+**Aláírás:** Gáspár Máté
 
-**Dátum:** 2024.11.20.
+**Dátum:** 2025.12.11
