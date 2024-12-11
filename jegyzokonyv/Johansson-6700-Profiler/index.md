@@ -81,6 +81,9 @@ A grafon a sugárzott és a mért jelszint öszzehasonlítását mutatja meg.
 ## 9. Javaslatok
 Javasolt a mérések ismétlése annak érdekében, hogy a változó környezeti tényezők (például időjárási viszonyok) ne befolyásolják jelentősen a mért eredményeket. Az ismételt mérések segíthetnek biztosítani a stabil és megbízható adatokat.
 ## 10. Képek a mérésről, csatornákról.
+![its_snapshot_0001](https://github.com/user-attachments/assets/177cf5dc-8180-4ea1-b0c2-5c52fa9d374f)
+![its_snapshot_0002](https://github.com/user-attachments/assets/0574b79e-1fc8-4512-9533-7f9db193bc0c)
+![its_snapshot_0003](https://github.com/user-attachments/assets/0ec8fa43-80e2-4a65-9125-f7f9285aac5c)
 
 
 
