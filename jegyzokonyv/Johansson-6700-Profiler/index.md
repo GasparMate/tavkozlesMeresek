@@ -42,12 +42,12 @@ A gyakorlat célja, hogy a diákok elsajátítsák a Johansson 6700 Profiler ant
 
 | Antenna típusa    | Eredeti csatorna  | Áthelyezett csatorna | Eredeti frekvencia | Áthelyezett frekvencia | Bemeneti jelszint (dBu) | Kimeneti jelszint (dBu) |
 |--------------------------|-------------------|----------------------|--------------------|------------------------|------------------------|------------------------|
-| DVB-T Szoba Antenna | 28         | 25            | 530 Mhz            | 634 MHz                |             24,4         | 100           |
-| DVB-T Szoba Antenna | 31         | 26            | 554 MHz            | 642 MHz                |             24,6         | 100           |
-| DVB-T Szoba Antenna | 35         | 27            | 586 MHz            | 650 MHz                |             26,2          | 100           |
-| DVB-T Szoba Antenna | 41         | 28            | 634 MHz            | 658 MHz                |             22,5         | 100           |
-| DVB-T Szoba Antenna | 45         | 29            | 666 MHz            | 666 MHz                |             29,2         | 100           |
-| DVB-T Szoba Antenna | 48         | 30            | 690 MHz            | 674 MHz                |             26,5       | 100           |
+| DVB-T Szoba Antenna | 28         | 25            | 530 Mhz            | 634 MHz                |             60        | 24,4           |
+| DVB-T Szoba Antenna | 31         | 26            | 554 MHz            | 642 MHz                |             60         | 24,6            |
+| DVB-T Szoba Antenna | 35         | 27            | 586 MHz            | 650 MHz                |             60         | 26,2          |
+| DVB-T Szoba Antenna | 41         | 28            | 634 MHz            | 658 MHz                |             60         | 22,5           |
+| DVB-T Szoba Antenna | 45         | 29            | 666 MHz            | 666 MHz                |             60         | 29,2          |
+| DVB-T Szoba Antenna | 48         | 30            | 690 MHz            | 674 MHz                |             60       | 26,6           |
 
 
 
