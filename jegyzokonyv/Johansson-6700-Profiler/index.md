@@ -2,10 +2,10 @@
 
 # MÉRÉSI JEGYZŐKÖNYV
 
-**A mérést végző neve:**  Szabó Tamás és Snellenperger Sándor <br>
+**A mérést végző neve:**  Gáspár Mát <br>
 **A mérés tárgya:** Johansson 6700 Profiler programozható antennaerősítő-szűrő használata <br>
 **A mérés száma:** 2 <br>
-**A mérés dátuma:** 2024.11.20  <br>
+**A mérés dátuma:** 2024.12.11  <br>
 **A mérést vezette:** Sándor Péter   
 
 **Évfolyam:** 13. E  
@@ -31,8 +31,8 @@ A gyakorlat célja, hogy a diákok elsajátítsák a Johansson 6700 Profiler ant
 ---
 
 ### 3. **Mérési helyszín és környezet**
-- **Antenna magassága**: 1,8 Méter
-- **Környezet jellemzői**: 10 °C Enyhe eső
+- **Antenna magassága**: 1,5 Méter
+- **Környezet jellemzői**: 1 °C Felhős
 - **Adó távolsága**: 780 Méter
 
 ---
@@ -42,12 +42,12 @@ A gyakorlat célja, hogy a diákok elsajátítsák a Johansson 6700 Profiler ant
 
 | Antenna típusa    | Eredeti csatorna  | Áthelyezett csatorna | Eredeti frekvencia | Áthelyezett frekvencia | Bemeneti jelszint (dBu) | Kimeneti jelszint (dBu) |
 |--------------------------|-------------------|----------------------|--------------------|------------------------|------------------------|------------------------|
-| DVB-T Szoba Antenna | 28         | 41            | 530 Mhz            | 634 MHz                |             60          | 100           |
-| DVB-T Szoba Antenna | 31         | 42            | 554 MHz            | 642 MHz                |             64          | 100           |
-| DVB-T Szoba Antenna | 35         | 43            | 586 MHz            | 650 MHz                |             60          | 100           |
-| DVB-T Szoba Antenna | 41         | 44            | 634 MHz            | 658 MHz                |             48          | 100           |
-| DVB-T Szoba Antenna | 45         | 45            | 666 MHz            | 666 MHz                |             58          | 100           |
-| DVB-T Szoba Antenna | 48         | 46            | 690 MHz            | 674 MHz                |             55          | 100           |
+| DVB-T Szoba Antenna | 28         | 25            | 530 Mhz            | 634 MHz                |             24,4         | 100           |
+| DVB-T Szoba Antenna | 31         | 26            | 554 MHz            | 642 MHz                |             24,6         | 100           |
+| DVB-T Szoba Antenna | 35         | 27            | 586 MHz            | 650 MHz                |             26,2          | 100           |
+| DVB-T Szoba Antenna | 41         | 28            | 634 MHz            | 658 MHz                |             22,5         | 100           |
+| DVB-T Szoba Antenna | 45         | 29            | 666 MHz            | 666 MHz                |             29,2         | 100           |
+| DVB-T Szoba Antenna | 48         | 30            | 690 MHz            | 674 MHz                |             26,5       | 100           |
 
 
 
