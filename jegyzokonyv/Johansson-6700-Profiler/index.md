@@ -75,8 +75,9 @@ Egy-két mérési nehézség természetesen adódott:
 
 ## 8. Grafikus ábrázolás
 A grafon a sugárzott és a mért jelszint öszzehasonlítását mutatja meg.
-![Gáspár](https://github.com/user-attachments/assets/6470916a-de32-418b-a413-3cea1d286954)
 
+
+![ggg](https://github.com/user-attachments/assets/4236b962-6c07-45de-8fa1-f79daf8e382b)
 
 
 ## 9. Javaslatok
