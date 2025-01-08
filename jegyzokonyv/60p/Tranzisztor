@@ -1,8 +1,7 @@
 MÉRÉSI JEGYZŐKÖNYV
-A mérést végző neve: Gáspár Mát
-A mérés tárgya: Johansson 6700 Profiler programozható antennaerősítő-szűrő használata
-A mérés száma: 2
-A mérés dátuma: 2024.12.11
+A mérést végző neve: Gáspár Máté
+A mérés tárgya: Tranzisztoros Mérés
+A mérés dátuma: 2025.01.08
 A mérést vezette: Sándor Péter
 
 Évfolyam: 13. E
@@ -10,25 +9,14 @@ Csoport: GYAK 2
 Helyszín: V3 Labor
 
 1. Mérés célja
-A gyakorlat célja, hogy a diákok elsajátítsák a Johansson 6700 Profiler antennaerősítő-szűrő beállításainak gyakorlati használatát különböző antennák jeleinek kezelésére. A feladat során a diákok beállítják a csatornákat, optimalizálják a jelszinteket és vizsgálják a bejövő és kimenő jeleket spektrum analizátor segítségével.
+A külömböző feszültségeken való áramerőség.
 
 2. Alkalmazott mérőeszközök és készülékek
 Műszer neve	Típus	Gyártási szám
-Profiler	Johansson 6700	28821
-Spektrum Analizátor	Metek HDD	211112002390
-DVB-T Szoba Antenna	Smart HD 550	...
-3. Mérési helyszín és környezet
-Antenna magassága: 1,5 Méter
-Környezet jellemzői: 1 °C Felhős
-Adó távolsága: 780 Méter
+Texas instruments 
 4.
-Antenna típusa	Eredeti csatorna	Áthelyezett csatorna	Eredeti frekvencia	Áthelyezett frekvencia	Bemeneti jelszint (dBu)	Kimeneti jelszint (dBu)
-DVB-T Szoba Antenna	28	25	530 Mhz	634 MHz	60	24,4
-DVB-T Szoba Antenna	31	26	554 MHz	642 MHz	60	24,6
-DVB-T Szoba Antenna	35	27	586 MHz	650 MHz	60	26,2
-DVB-T Szoba Antenna	41	28	634 MHz	658 MHz	60	22,5
-DVB-T Szoba Antenna	45	29	666 MHz	666 MHz	60	29,2
-DVB-T Szoba Antenna	48	30	690 MHz	674 MHz	60	26,6
+
+
 5. Mérési eredmények elemzése
 Az adatok alapján az alábbi következtetéseket lehet levonni:
 
