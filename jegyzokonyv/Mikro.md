@@ -2,10 +2,10 @@
 
 **Vizsga megnevezése:** Távközlési Technikus Vizsga  
 **Téma:** Komplex Távközlési Hálózat Tervezése, Telepítése és Mérése  
-**Időpont:** [Dátum]  
-**Helyszín:** [Vizsgahelyszín]  
-**Vizsgázó neve:** [Név]  
-**Felügyelő tanár:** [Név]  
+**Időpont:** 2025.0129 
+**Helyszín:** V3 Labor
+**Vizsgázó neve:** Gáspár Máté
+**Felügyelő tanár:** Sándor Péter 
 
 ---
 
