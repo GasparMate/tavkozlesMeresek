@@ -4,9 +4,11 @@
 ## Vizsga: Távközlési technikus - B tétel
 ## Dátum: 2025.02.03
 
- ----
+ ---
 
 ### Feladat leírása: A vizsgázó feladata egy földfelszíni digitális TV vételi rendszer kiépítése és konfigurálása, amely magában foglalja a DVB-T jel mérését, fejállomásba történő bevezetését és az IPTV streamek konfigurálását.
+
+---
 
 ### 1. Előkészületek 
 Eszközök ellenőrzése:
