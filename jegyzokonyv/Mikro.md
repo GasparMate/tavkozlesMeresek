@@ -1,76 +1,76 @@
-**JEGYZŐKÖNYV**
 
-**Vizsga megnevezése:** Távközlési Technikus Vizsga  
-**Téma:** Komplex Távközlési Hálózat Tervezése, Telepítése és Mérése  
-**Időpont:** 2025.0129 
-**Helyszín:** V3 Labor
-**Vizsgázó neve:** Gáspár Máté
-**Felügyelő tanár:** Sándor Péter 
 
----
+DVB-T jel fejállomásba küldése és IPTV rendszeren való kiadása
+Vizsga: Távközlési technikus - B tétel
+Dátum: 2025.02.03
 
-### **1. Előkészítés és tervezés**
+Feladat leírása: A vizsgázó feladata egy földfelszíni digitális TV vételi rendszer kiépítése és konfigurálása, amely magában foglalja a DVB-T jel mérését, fejállomásba történő bevezetését és az IPTV streamek konfigurálását.
 
-- A vizsgázó az eszközöket gyári beállításokra visszaállította.
-- A hálózati topológiát megtervezte, az IP-címeket kiosztotta.
-- Az alhálózati maszk („255.255.255.0”) megfelelően lett konfigurálva.
+1. Előkészületek 
+Eszközök ellenőrzése:
+Antenna (beltéri/kültéri)
+Fejállomás: LEMCO SCL-824CT
+Set-top box: MAG IPTV
+Hálózati eszközök: HP switch/router
+METEK HDD mérőműszer
+Koaxiális kábelek és csatlakozók
+Mérőeszközök: iránytű, dőlésszögmérő
+Multiplex keresése a Miskolc, Avasi adótoronyból:
+Frekvencia: 530 MHz
+Teljesítmény: 50 kW
+Polarizáció: Vertikális
+Adás típusa: FTA DVB-T
+2. Antenna felszerelése és beállítása 
+Antenna kiválasztása:
+A kültéri antenna mellett döntöttünk, mivel az optimális vételt biztosítja a nagy távolság miatt.
+Antennát rögzítése:
+A kültéri antenna tripodra lett rögzítve, és az iránytű segítségével pontosan beállítva az Avasi adótorony irányába. A dőlésszögmérővel biztosítottuk a megfelelő emelkedési szöget.
+Mérés METEK HDD mérőműszerrel:
+A jelerősség stabil -58 dBm volt, amely megfelelő a DVB-T vételhez.
+  
 
-**Eszközök:**
-- Mikrotik LHG18 LTE antenna: 192.168.88.1
-- Mikrotik nRay 60GHz Master: 192.168.88.2
-- Mikrotik nRay 60GHz Slave: 192.168.88.3
-- Router (AP mód): 192.168.88.4
-- Kliens laptop: 192.168.88.100-250 (DHCP-ből)
+3. Kábelezés, mérési pontok kialakítása és jel bevezetése a fejállomásba 
+Kábelezés és jelszétválasztás:
+Az antenna jele koaxiális kábellel lett összekötve a fejállomás bemeneteivel. A jelosztó segítségével a különböző multiplexeket megfelelően osztottuk el a bemeneti portokon.
+Mérés a fejállomás előtt:
+A fejállomás jelszintje -6 dBm volt, megfelelően erős a továbbításhoz.
+   
 
----
+4. Fejállomás beállítása és IPTV stream konfigurálása 
+Fejállomás konfigurálása:
+Minden bemenetre a megfelelő multiplexet rendeltük hozzá.
+A DVB-T jelet IP streamként konvertáltuk. Multicast IP tartomány: 239.1.1.0/24.
+IPTV Set-top box beállítása (MAG IPTV):
+A set-top box IP konfigurálása és csatornalista frissítése megtörtént.
+A csatornák sikeresen lettek beolvasva, és a képminőség megfelelő volt.
+5. Jelszintmérés és dokumentáció (30 perc)
+Antenna mérése:
+Spektrum analizátor kép:
+Jelszint: -58 dBm
+Jel/zaj viszony: 30 dB
+Bit Error Rate (BER): 0.0005
+(Kép: Spektrum analizátor mérés)
 
-### **2. Eszközök telepítése és konfigurálása**
+Fejállomás mérése:
+IPTV stream stabilitása: A multicast IP címek működtek, és a stream folyamatos volt.
+Hálózati késleltetés: 12 ms.
+6. Hibakeresés és analízis
+Wireshark használata:
+A multicast forgalom figyelése során nem tapasztaltunk csomagvesztést.
+Ping teszt: 239.1.1.1 címen stabil kapcsolat.
+FFmpeg használata:
+A stream mentése és elemzése során nem találtunk problémát, a bitráta stabilan 8 Mbps volt.
+Mérési Eredmények:
+Jelerősség (dBμV): -58 dBm
+Jel/zaj viszony (SNR): 30 dB
+Bit Error Rate (BER): 0.0005
+Modulation Error Ratio (MER): 34 dB
+Lock állapot: Igen
+Zárás:
+Az IPTV rendszer sikeresen konfigurálásra került, és a DVB-T jelet megfelelően továbbítottuk az IPTV hálózaton. A mérések és a dokumentáció a kívánt normáknak megfelelnek.
 
-- **Mikrotik LHG18 LTE antenna:**
-  - Hozzáférés biztosítva WinBox vagy böngésző által.
-  - LTE kapcsolat konfigurálva, DHCP beállítva.
-  - Ping teszt sikeres, internet kapcsolat működik.
+Aláírás:
+Vizsgázó neve: Gáspár Máté
+Dátum:  2025.02.03
 
-- **Mikrotik nRay 60GHz antennapár:**
-  - Master és Slave eszközök sikeresen konfigurálva.
-  - Kapcsolati paraméterek rögzítve (RSSI, RSRP, SINR stb.).
-
-- **SOHO Router (AP mód):**
-  - Wi-Fi SSID: "GazdaXX" jelszóval ellátva.
-  - Router IP beállítva, megfelelő csatlakozás biztosítva.
-
----
-
-### **3. Hálózati tesztelés és hibakeresés**
-
-- **Ping teszt:**
-  - Pingelés 192.168.88.1, 192.168.88.2, 192.168.88.3, 192.168.88.4 címekre sikeres.
-  - Válaszidők rögzítve, csomagvesztés nincs.
-
-- **Sávszélesség teszt (iperf):**
-  - Az eszközök közötti adatátviteli sebesség mérése sikeres.
-  - Mért sebesség: [Mbps érték]
-
----
-
-### **4. Dokumentáció és értékelés**
-
-- **Hibakeresés eredménye:** Minden eszköz helyesen működik.
-- **Dokumentáció:** A vizsgázó teljes körű dokumentációt készített, beleértve a konfigurációs beállításokat, méréseket és eredményeket.
-- **Pontozás:**
-  - Eszközök resetelése és előkészítése: 10 pont
-  - Eszközök konfigurálása: 40 pont
-  - Ping és iperf tesztek: 20 pont
-  - Dokumentáció (képernyőképekkel): 20 pont
-  - Hibakeresés: 10 pont
-  - **Összesen:** 100 pont
-
----
-
-**Megjegyzések:**
-- [Bármilyen további megjegyzés vagy javaslat]
-
-**Dátum:** [Dátum]  
-**Felügyelő aláírása:** ________________  
-**Vizsgázó aláírása:** ________________
 
