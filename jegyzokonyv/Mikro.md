@@ -23,6 +23,8 @@ Teljesítmény: 50 kW
 Polarizáció: Vertikális
 Adás típusa: FTA DVB-T
 ### 2. Antenna felszerelése és beállítása 
+![szerelés4](https://github.com/user-attachments/assets/0cb46eff-7342-4e8b-87a1-313ce326bd1a)
+
 ### Antenna kiválasztása:
 A kültéri antenna mellett döntöttünk, mivel az optimális vételt biztosítja a nagy távolság miatt.
 Antennát rögzítése:
