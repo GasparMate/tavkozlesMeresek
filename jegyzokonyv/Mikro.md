@@ -48,6 +48,8 @@ IPTV Set-top box beállítása (MAG IPTV):
 A set-top box IP konfigurálása és csatornalista frissítése megtörtént.
 A csatornák sikeresen lettek beolvasva, és a képminőség megfelelő volt.
 ### 5. Jelszintmérés és dokumentáció 
+![sf-10_d](https://github.com/user-attachments/assets/186ad45d-9f58-4610-b555-98f53ee8c8f4)
+
 ### Antenna mérése:
 Spektrum analizátor kép:
 Jelszint: -58 dBm
