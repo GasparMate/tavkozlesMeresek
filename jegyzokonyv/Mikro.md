@@ -4,9 +4,11 @@ DVB-T jel fejállomásba küldése és IPTV rendszeren való kiadása
 Vizsga: Távközlési technikus - B tétel
 Dátum: 2025.02.03
 
-Feladat leírása: A vizsgázó feladata egy földfelszíni digitális TV vételi rendszer kiépítése és konfigurálása, amely magában foglalja a DVB-T jel mérését, fejállomásba történő bevezetését és az IPTV streamek konfigurálását.
+ ----
 
-1. Előkészületek 
+### **Feladat leírása: A vizsgázó feladata egy földfelszíni digitális TV vételi rendszer kiépítése és konfigurálása, amely magában foglalja a DVB-T jel mérését, fejállomásba történő bevezetését és az IPTV streamek konfigurálását.
+
+### **1. Előkészületek 
 Eszközök ellenőrzése:
 Antenna (beltéri/kültéri)
 Fejállomás: LEMCO SCL-824CT
@@ -20,53 +22,53 @@ Frekvencia: 530 MHz
 Teljesítmény: 50 kW
 Polarizáció: Vertikális
 Adás típusa: FTA DVB-T
-2. Antenna felszerelése és beállítása 
-Antenna kiválasztása:
+### **2. Antenna felszerelése és beállítása 
+### **Antenna kiválasztása:
 A kültéri antenna mellett döntöttünk, mivel az optimális vételt biztosítja a nagy távolság miatt.
 Antennát rögzítése:
 A kültéri antenna tripodra lett rögzítve, és az iránytű segítségével pontosan beállítva az Avasi adótorony irányába. A dőlésszögmérővel biztosítottuk a megfelelő emelkedési szöget.
-Mérés METEK HDD mérőműszerrel:
+### **Mérés METEK HDD mérőműszerrel:
 A jelerősség stabil -58 dBm volt, amely megfelelő a DVB-T vételhez.
   
 
-3. Kábelezés, mérési pontok kialakítása és jel bevezetése a fejállomásba 
-Kábelezés és jelszétválasztás:
+### **3. Kábelezés, mérési pontok kialakítása és jel bevezetése a fejállomásba 
+### **Kábelezés és jelszétválasztás:
 Az antenna jele koaxiális kábellel lett összekötve a fejállomás bemeneteivel. A jelosztó segítségével a különböző multiplexeket megfelelően osztottuk el a bemeneti portokon.
-Mérés a fejállomás előtt:
+### **Mérés a fejállomás előtt:
 A fejállomás jelszintje -6 dBm volt, megfelelően erős a továbbításhoz.
    
 
-4. Fejállomás beállítása és IPTV stream konfigurálása 
-Fejállomás konfigurálása:
+### **4. Fejállomás beállítása és IPTV stream konfigurálása 
+### **Fejállomás konfigurálása:
 Minden bemenetre a megfelelő multiplexet rendeltük hozzá.
 A DVB-T jelet IP streamként konvertáltuk. Multicast IP tartomány: 239.1.1.0/24.
 IPTV Set-top box beállítása (MAG IPTV):
 A set-top box IP konfigurálása és csatornalista frissítése megtörtént.
 A csatornák sikeresen lettek beolvasva, és a képminőség megfelelő volt.
-5. Jelszintmérés és dokumentáció (30 perc)
-Antenna mérése:
+### **5. Jelszintmérés és dokumentáció (30 perc)
+### **Antenna mérése:
 Spektrum analizátor kép:
 Jelszint: -58 dBm
 Jel/zaj viszony: 30 dB
 Bit Error Rate (BER): 0.0005
 (Kép: Spektrum analizátor mérés)
 
-Fejállomás mérése:
+### **Fejállomás mérése:
 IPTV stream stabilitása: A multicast IP címek működtek, és a stream folyamatos volt.
 Hálózati késleltetés: 12 ms.
-6. Hibakeresés és analízis
-Wireshark használata:
+### **6. Hibakeresés és analízis
+### **Wireshark használata:
 A multicast forgalom figyelése során nem tapasztaltunk csomagvesztést.
 Ping teszt: 239.1.1.1 címen stabil kapcsolat.
-FFmpeg használata:
+### **FFmpeg használata:
 A stream mentése és elemzése során nem találtunk problémát, a bitráta stabilan 8 Mbps volt.
-Mérési Eredmények:
+### **Mérési Eredmények:
 Jelerősség (dBμV): -58 dBm
 Jel/zaj viszony (SNR): 30 dB
 Bit Error Rate (BER): 0.0005
 Modulation Error Ratio (MER): 34 dB
 Lock állapot: Igen
-Zárás:
+### **Zárás:
 Az IPTV rendszer sikeresen konfigurálásra került, és a DVB-T jelet megfelelően továbbítottuk az IPTV hálózaton. A mérések és a dokumentáció a kívánt normáknak megfelelnek.
 
 Aláírás:
