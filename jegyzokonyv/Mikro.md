@@ -46,6 +46,9 @@ A jelerősség stabil -58 dBm volt, amely megfelelő a DVB-T vételhez.
   ---
 
 ### 3. Kábelezés, mérési pontok kialakítása és jel bevezetése a fejállomásba
+![Hálózati+struktúra](https://github.com/user-attachments/assets/1802fdf3-2515-41a8-b376-66536edb6dd2)
+
+
 ---
 ---
 ### Kábelezés és jelszétválasztás:
