@@ -1,8 +1,8 @@
 
 
-DVB-T jel fejállomásba küldése és IPTV rendszeren való kiadása
-Vizsga: Távközlési technikus - B tétel
-Dátum: 2025.02.03
+## DVB-T jel fejállomásba küldése és IPTV rendszeren való kiadása
+## Vizsga: Távközlési technikus - B tétel
+## Dátum: 2025.02.03
 
  ----
 
@@ -71,8 +71,6 @@ Lock állapot: Igen
 ### Zárás:
 Az IPTV rendszer sikeresen konfigurálásra került, és a DVB-T jelet megfelelően továbbítottuk az IPTV hálózaton. A mérések és a dokumentáció a kívánt normáknak megfelelnek.
 
-Aláírás:
-Vizsgázó neve: Gáspár Máté
-Dátum:  2025.02.03
-
+## Aláírás: Gáspár Máté
+## Vizsga Időpontja: 2025.02.03
 
