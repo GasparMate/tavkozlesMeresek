@@ -47,7 +47,7 @@ A DVB-T jelet IP streamként konvertáltuk. Multicast IP tartomány: 239.1.1.0/2
 IPTV Set-top box beállítása (MAG IPTV):
 A set-top box IP konfigurálása és csatornalista frissítése megtörtént.
 A csatornák sikeresen lettek beolvasva, és a képminőség megfelelő volt.
-### 5. Jelszintmérés és dokumentáció (30 perc)
+### 5. Jelszintmérés és dokumentáció 
 ### Antenna mérése:
 Spektrum analizátor kép:
 Jelszint: -58 dBm
@@ -59,6 +59,7 @@ Bit Error Rate (BER): 0.0005
 IPTV stream stabilitása: A multicast IP címek működtek, és a stream folyamatos volt.
 Hálózati késleltetés: 12 ms.
 ### 6. Hibakeresés és analízis
+ 
 ### Wireshark használata:
 A multicast forgalom figyelése során nem tapasztaltunk csomagvesztést.
 Ping teszt: 239.1.1.1 címen stabil kapcsolat.
