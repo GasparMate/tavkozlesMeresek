@@ -59,7 +59,8 @@ Bit Error Rate (BER): 0.0005
 IPTV stream stabilitása: A multicast IP címek működtek, és a stream folyamatos volt.
 Hálózati késleltetés: 12 ms.
 ### 6. Hibakeresés és analízis
- 
+ ![ssss](https://github.com/user-attachments/assets/950eeb5b-5bcb-4b4c-ba0d-dbdde3f2c529)
+
 ### Wireshark használata:
 A multicast forgalom figyelése során nem tapasztaltunk csomagvesztést.
 Ping teszt: 239.1.1.1 címen stabil kapcsolat.
