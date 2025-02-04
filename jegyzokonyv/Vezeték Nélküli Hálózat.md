@@ -2,6 +2,7 @@
 ## A feladatot készítette: Gáspár Máté
 
 ## A feladat készítésének időpontja: 2025.02.04
+![sssss](https://github.com/user-attachments/assets/91cecf9f-a857-4479-93c1-3a1976d7f02e)
 
 ---
 ## A feladatban használt eszközök:
