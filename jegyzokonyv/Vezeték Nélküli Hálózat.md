@@ -5,3 +5,12 @@
 
 ---
 ## A feladatbsan használt eszközök:
+| Eszközök            | Tipus |
+|---------------------|-------|
+| Laptop  | Thinkpad|
+|     |  |
+| |  |
+|      | |
+|      |  |
+|  |  |
+|  | |   
