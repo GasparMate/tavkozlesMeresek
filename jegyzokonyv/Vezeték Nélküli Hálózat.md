@@ -17,8 +17,8 @@ A feladat célja hogy a router bekonfigurálása után  eltudjunk érni és ping
 
 ## A feladat menete:
 - 1. Az eszközök össze kapcsolása a megfelelő Koax tipusú kábellel
-  2. A Routerhez való kapcsolat létrehozása
-  3. A Router bekonfigurálása Ip cím és Védettség beállítása
-  4. Gépen való pingelés az eszközökre
+- 2. A Routerhez való kapcsolat létrehozása
+- 3. A Router bekonfigurálása Ip cím és Védettség beállítása
+-4. Gépen való pingelés az eszközökre
 
 
