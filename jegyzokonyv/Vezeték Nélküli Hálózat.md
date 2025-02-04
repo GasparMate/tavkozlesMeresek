@@ -5,12 +5,8 @@
 
 ---
 ## A feladatbsan használt eszközök:
-| Eszközök            | Tipus |
-|---------------------|-------|
-| Laptop  | Thinkpad|
-|     |  |
-| |  |
-|      | |
-|      |  |
-|  |  |
-|  | |   
+| Eszközök            | Tipus  |
+|---------------------|------- |
+| Laptop  | Thinkpad           |
+| Router  | linksys wrt54l    |
+| Switch  | Cisco Catalyst 2950| 
