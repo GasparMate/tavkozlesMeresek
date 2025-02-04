@@ -27,5 +27,5 @@ A Router jól volt bekonfigurálva és elérték egymást a telefononnal de ping
 
 ## A feladat megvalósításáról készült képek 
 
-![iphone](https://github.com/user-attachments/assets/6dd9e399-335d-49e7-a458-c587d6eeeb12)<heigth 150px>
+![iphone](https://github.com/user-attachments/assets/6dd9e399-335d-49e7-a458-c587d6eeeb12)<heigth px10>
 
