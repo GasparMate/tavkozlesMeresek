@@ -7,6 +7,7 @@
 
 ## Router 
 Router elérés 192.168.50.1
+
 router login admin admin12345678
 
 
