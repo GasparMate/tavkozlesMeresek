@@ -1,6 +1,8 @@
 ---
 A feladatott készített: Gáspár Máté
-A Feladat helyszine és ideje: 2025.02.05/V3 Labor
+A Feladat  ideje: 2025.02.05/
+A Feladat helyszine: V3 Labor
+
 
 
 
